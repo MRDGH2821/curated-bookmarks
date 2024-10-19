@@ -1,11 +1,12 @@
 {
   "recommendations": [
-    "usernamehw.errorlens",
+    "bierner.github-markdown-preview",
+    "clover.md-table-editor",
+    "davidanson.vscode-markdownlint",
+    "eamodio.gitlens",
     "michaelcurrin.auto-commit-msg",
     "streetsidesoftware.code-spell-checker",
-    "vivaxy.vscode-conventional-commits",
-    "eamodio.gitlens",
-    "davidanson.vscode-markdownlint",
-    "clover.md-table-editor"
+    "usernamehw.errorlens",
+    "vivaxy.vscode-conventional-commits"
   ]
 }
