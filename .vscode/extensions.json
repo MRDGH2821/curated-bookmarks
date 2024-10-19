@@ -1,0 +1,11 @@
+{
+  "recommendations": [
+    "usernamehw.errorlens",
+    "michaelcurrin.auto-commit-msg",
+    "streetsidesoftware.code-spell-checker",
+    "vivaxy.vscode-conventional-commits",
+    "eamodio.gitlens",
+    "davidanson.vscode-markdownlint",
+    "clover.md-table-editor"
+  ]
+}
