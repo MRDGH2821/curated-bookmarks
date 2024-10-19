@@ -3,7 +3,8 @@
   "caseSensitive": false,
   "ignorePaths": [".vscode", "**/.git/**", "**/node_modules/**"],
   "language": "en,en-IN,en-GB",
-  "useGitignore": true,
   "noConfigSearch": true,
-  "version": "0.2"
+  "useGitignore": true,
+  "version": "0.2",
+  "words": ["saatvik"]
 }
