@@ -10,6 +10,7 @@
 ## Benefits
 
 - [20 Amazing Discounts You Can Get With a Free EDU Email Address](https://www.makeuseof.com/tag/discounts-edu-email-address/)
+- [GitHub Education](https://github.com/education)
 
 ---
 
