@@ -5,9 +5,9 @@ My repo doesn't adhere much to the awesome list criteria, so here I'm making my 
 
 ## Index
 
-- [Education](./Education.md)
-- [Lifestyle](./Lifestyle.md)
-- [Miscellaneous](./Miscellaneous.md)
+- [Education](./education.md)
+- [Lifestyle](./lifestyle.md)
+- [Miscellaneous](./miscellaneous.md)
 
 ## Licence
 
