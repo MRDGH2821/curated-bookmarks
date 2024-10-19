@@ -5,9 +5,12 @@ My repo doesn't adhere much to the awesome list criteria, so here I'm making my 
 
 ## Index
 
+- [Apps and Tools](./apps-and-tools.md)
 - [Education](./education.md)
 - [Lifestyle](./lifestyle.md)
 - [Miscellaneous](./miscellaneous.md)
+- [News](./news.md)
+- [Software and Technology](./software-and-technology.md)
 
 ## Licence
 
