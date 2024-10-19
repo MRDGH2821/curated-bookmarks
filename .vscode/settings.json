@@ -1,5 +1,5 @@
 {
-  "conventionalCommits.scopes": ["cspell", "vscode"],
+  "conventionalCommits.scopes": ["cspell", "education", "vscode"],
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "git.enableCommitSigning": true
 }
