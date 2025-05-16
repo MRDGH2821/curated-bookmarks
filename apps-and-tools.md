@@ -27,6 +27,8 @@ Related - [Software Technology](./software-and-technology.md)
 - [Espanso](https://espanso.org/)
 - [Everything](https://www.voidtools.com/)
 - [UniGetUI](https://github.com/marticliment/UnigetUI)
+- [URL to Any](https://www.urltoany.com/)
+- [Vert - Convert any file](https://vert.sh/)
 
 ## Guides
 
